@@ -1,4 +1,4 @@
-# Hi there, I am Anjali <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="20px"> 
+# Hi there, I am Anjali <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="10px"> 
 
 <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/main.gif" width="350px" align="right"/>
 
@@ -7,7 +7,6 @@
 - 👩‍💻 I enjoy Web Development, Competitive Coding and Problem Solving
 - 🤝 I’m looking forward to working with more Open Source Projects in future
 - 🏆 I like to participate in Hackathons and build new projects
-- 😄 Looking forward to collaborate with developers to work on new ideas and innovations
 
 
  ## Some Hackathons I've participated in 
