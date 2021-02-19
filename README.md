@@ -1,16 +1,12 @@
-# Hi there, I am Anjali <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
+# Hi there, I am Anjali <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="20px"> 
 
 <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/main.gif" width="350px" align="right"/>
 
 
 - 👩‍🎓 I’m currently a Pre-final Year Computer Science and Engineering Undergraduate at NIT Raipur
-
 - 👩‍💻 I enjoy Web Development, Competitive Coding and Problem Solving
-
 - 🤝 I’m looking forward to working with more Open Source Projects in future
-
 - 🏆 I like to participate in Hackathons and build new projects
-
 - 😄 Looking forward to collaborate with developers to work on new ideas and innovations
 
 
@@ -29,7 +25,7 @@
     <tr valign="top">
       <td width="10%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="20px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="10%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
