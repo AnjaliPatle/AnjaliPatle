@@ -1,6 +1,6 @@
-# Hi there, I am Anjali <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="10px"> 
+# Hi there, I am Anjali <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
 
-<img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/main.gif" width="350px" align="right"/>
+<img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/main.gif" width="300px" align="right"/>
 
 
 - 👩‍🎓 I’m currently a Pre-final Year Computer Science and Engineering Undergraduate at NIT Raipur
